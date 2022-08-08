@@ -23,6 +23,15 @@ Sentiment Analysis of Restaurants Customer Reviews on Twitter, Published `March 
 
 Now a DevOps student. But in future I will be a good DevOps Engineer !
 
+## Projects
+
+## 1- Build and Deploy a Java-Maven Application using jenkins
+## 2- Build and Deploy a .NET Application from Jenkins
+## 3- Build a docker image of a sample .NET core application and deploy it as a container
+## 4- Create & Deploy a Micro-service Application as Docker Containers with Docker-compose
+## 5- Deploy Jenkins Application using Docker container
+
+
 <!-- ### Footer
 
 Last updated: June 2022 -->
